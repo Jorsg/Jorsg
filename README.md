@@ -7,7 +7,7 @@ I am a passionate programmer who enjoys learning new things. Although I am not t
 
 
 #
-- 🔭 I’m currently working on my owner project Convert of image to text and translate with GPT
+- 🔭 I’m currently working on my own project to Convert images to text and translate with GPT
 - 🌱 I’m currently learning TDD, security in Web API and Cloud computing
 #
 # 💻 Technologies and Tools
