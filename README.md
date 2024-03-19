@@ -10,7 +10,7 @@ I am a passionate programmer who enjoys learning new things. Although I am not t
 - 🔭 I’m currently working on my owner project Convert of image to text and translate with GPT
 - 🌱 I’m currently learning TDD, security in Web API and Cloud computing
 #
-# 💻 Techologies and Tools
+# 💻 Technologies and Tools
 
 #### Here are some of the technologies and tools that I am experienced with:
 <img src='https://www.vectorlogo.zone/logos/angular/angular-icon.svg' alt='Angular' height='20'><img src='https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg' height='20'><img src='https://camo.githubusercontent.com/da2f6301ae95dec2ad59c096d38e28dbd0422db9c7d5a970013a977d267fd3d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465' alt='' height='20'><img src='https://www.vectorlogo.zone/logos/linux/linux-icon.svg' alt='' height='20'><img src='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg' alt='' height='20'><img src='https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg' alt='' height='20'><img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' alt='' height='20'><img src='https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg' alt='' height='20'>
